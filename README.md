@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Full stack web developer**
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **System design**
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
