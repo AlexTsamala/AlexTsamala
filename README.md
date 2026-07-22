@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as **Full stack web developer**
 - 🌱 I’m currently learning **System design**
 - 👯 I’m looking to collaborate on **any interesting project**
-- 💬 Ask me about **React, Typescript, Node.js, PostgreSql, MongoDb**
+- 💬 Ask me about **React,Next.js, Typescript, Node.js,express, PostgreSql, **
 - 📫 How to reach me **s.tsamalashvili1998@gmail.com**
 
 ### Connect with me:
